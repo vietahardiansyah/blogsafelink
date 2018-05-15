@@ -1,0 +1,2 @@
+# blogsafelink
+js
